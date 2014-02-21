@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Architect and Developer: Alejandro Echeverria
+	Contact: ae [at] hyperme.net
+	Twitter: @cuete
+	From:Guatemala, Guatemala
+
+# THANKS
+
+    iiars.org
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
