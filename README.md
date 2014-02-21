@@ -3,7 +3,7 @@ InformeCEH
 
 Informe "Memoria del Silencio" de la Comisión de Esclarecimiento Histórico, Guatemala.
 
-He convertido el informe de la versión publicamente disponible en pdf a formato HTML, para su publicación web.
+La versión pdf publicamente disponible del informe ha sido convertida a HTML, para su publicación web, usando pdf2htmlEx (https://github.com/coolwanglu/pdf2htmlEX).
 
 El formato web ha sido construido sobre Initializr (http://www.initializr.com/).
 
