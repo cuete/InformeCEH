@@ -10,6 +10,7 @@ textarea {
     color: #222;
 }
 
+
 body {
     font-size: 1em;
     line-height: 1.4;
@@ -151,7 +152,7 @@ nav a:hover {
 }
 
 .footer-container footer {
-    color: white;
+    color: #666;
     padding: 20px 0;
 }
 
